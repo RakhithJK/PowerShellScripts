@@ -10,7 +10,7 @@
     * Backs up the Microsoft Edge profile to a zip archive
 	
     .NOTES
-    Author: Alex.R.Laurie@gmail.com
+    Author: /RakhithJK
 	
     Version: 0.01
     Initial draft
